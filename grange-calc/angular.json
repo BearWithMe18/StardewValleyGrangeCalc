@@ -28,7 +28,8 @@
             "outputMode": "server",
             "ssr": {
               "entry": "src/server.ts"
-            }
+            },
+            "baseHref": "/StardewValleyGrangeCalc/"
           },
           "configurations": {
             "production": {
