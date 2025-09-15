@@ -1,4 +1,4 @@
-import { Component, signal } from '@angular/core';
+import { Component, input, signal } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
 import { Score } from './score/score';
 
@@ -10,5 +10,5 @@ import { Score } from './score/score';
 })
 export class App {
   protected readonly title = signal('grange-calc');
-  public scoreVal = 14;
+  scoreVal = input(0)
 }

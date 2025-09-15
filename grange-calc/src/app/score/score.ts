@@ -1,12 +1,11 @@
 import { Component } from '@angular/core';
+import { App } from '../app';
 
 @Component({
   selector: 'app-score',
-  imports: [],
+  imports: [App],
   templateUrl: './score.html',
   styleUrl: './score.css'
 })
 export class Score {
-  public baseScore: Number = 14;
-  public scoreVal: Number = 0;
 }
