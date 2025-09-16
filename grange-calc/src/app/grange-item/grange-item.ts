@@ -1,4 +1,4 @@
-import { Component, model, signal } from '@angular/core';
+import { Component, input, model, signal } from '@angular/core';
 
 @Component({
   selector: 'app-grange-item',
@@ -7,6 +7,7 @@ import { Component, model, signal } from '@angular/core';
   styleUrl: './grange-item.css'
 })
 export class GrangeItem {
+  itemCategories = input<string[]>();
   itemScore = model<number>();
 
 }
