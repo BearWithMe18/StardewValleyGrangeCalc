@@ -10,5 +10,4 @@ import { Score } from './score/score';
 })
 export class App {
   protected readonly title = signal('grange-calc');
-  scoreVal = input(0)
 }

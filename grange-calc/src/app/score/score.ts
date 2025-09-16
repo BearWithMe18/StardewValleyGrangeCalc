@@ -1,11 +1,11 @@
-import { Component } from '@angular/core';
-import { App } from '../app';
+import { Component, Input } from '@angular/core';
 
 @Component({
   selector: 'app-score',
-  imports: [App],
+  imports: [],
   templateUrl: './score.html',
   styleUrl: './score.css'
 })
 export class Score {
+  ScoreVal = 14;
 }
