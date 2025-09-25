@@ -1,2 +1,11 @@
 <h1>Stardew Valley Grange Calculator</h1>
 <section class="Score"><app-score></app-score></section>
+<form [formGroup]="itemForm">
+    <select formControlName="item1">
+        @for (item of itemCategories(); track $index) {
+            <option [ngValue]="item">{{ item }}</option>
+        }
+    </select>
+</form>
+
+<p>{{itemForm.value.item1}}</p>
