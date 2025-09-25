@@ -1,7 +1,10 @@
-<p>Item 1:</p>
-<select>
-  @for (item of itemCategories(); track item){
-  <option>{{item}}</option>
-  }
-</select>
-<p>Item score: {{itemScore()}}</p>
+<form [formGroup]="itemForm">
+  <p>Item 1:</p>
+  <select formControlName="itemInfo">
+    @for (item of itemCategories(); track item){
+    <option>{{item}}</option>
+    }
+  </select>
+  <p>{{itemForm.value}}</p>
+  <p>Item score: {{itemScore()}}</p>
+</form>

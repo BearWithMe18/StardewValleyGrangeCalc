@@ -1,4 +1,7 @@
 <h1>Stardew Valley Grange Calculator</h1>
+<label for="Item1">Name: </label>
+<p>{{ Item1.value }}</p>
+<input id="Item1" type="text" [formControl]="Item1">
 <section class="Score"><app-score [ScoreVal]="ScoreVal()"></app-score></section>
 <section class="GrangeItem"><app-grange-item [(itemScore)]="item1Score"
     [itemCategories]="itemCategories()"></app-grange-item></section>
