@@ -9,12 +9,10 @@
                 <option [ngValue]="item">{{ item }}</option>
             }
         </select>
-        @if (itemForm.value.item1 != "None") {
-            <p>Something!</p>
+        @if (itemForm.get("item"+number)?.value != "None") {
+            <p>Show {{itemForm.get("item"+number)?.value}} List</p>
         }
         <hr>
     }
     
 </form>
-
-<p>{{itemForm.value.item1}}</p>
