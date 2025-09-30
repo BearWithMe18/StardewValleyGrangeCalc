@@ -1,11 +1,20 @@
 <h1>Stardew Valley Grange Calculator</h1>
 <section class="Score"><app-score></app-score></section>
 <form [formGroup]="itemForm">
-    <select formControlName="item1">
-        @for (item of itemCategories(); track $index) {
-            <option [ngValue]="item">{{ item }}</option>
+    <hr>
+    @for (number of [1,2,3,4,5,6,7,8,9]; track $number){
+        <h3>Item{{number}}:</h3>
+        <select formControlName="item{{number}}">
+            @for (item of itemCategories(); track $index) {
+                <option [ngValue]="item">{{ item }}</option>
+            }
+        </select>
+        @if (itemForm.value.item1 != "None") {
+            <p>Something!</p>
         }
-    </select>
+        <hr>
+    }
+    
 </form>
 
 <p>{{itemForm.value.item1}}</p>
