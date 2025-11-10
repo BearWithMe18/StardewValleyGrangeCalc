@@ -17,7 +17,7 @@ export class App {
   categoryData = categoryData;
   protected readonly title = signal('grange-calc');
 
-  itemCategories = signal(["None", "Animal Products", "Artisan Goods", "Cooking", "Fish", "Foraging", "Fruits", "Minerals", "Vegetables"]);
+  itemCategories = signal(["None", "Animal Products", "Artisan Goods", "Cooking", "Fish", "Forage", "Fruits", "Minerals", "Vegetables"]);
 
   itemForm = new FormGroup({
     item1: new FormControl(this.itemCategories()[0]),
