@@ -2,6 +2,7 @@ import { Component, signal } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
 import { Score } from './score/score';
 import { FormControl, FormGroup, ReactiveFormsModule } from '@angular/forms';
+import categoryData from '../data/categories.json';
 
 @Component({
   selector: 'app-root',
@@ -10,6 +11,10 @@ import { FormControl, FormGroup, ReactiveFormsModule } from '@angular/forms';
   styleUrl: './app.css'
 })
 export class App {
+  ngOnInit() {
+    console.log(categoryData['Animal Products']);
+  }
+  categoryData = categoryData;
   protected readonly title = signal('grange-calc');
 
   itemCategories = signal(["None", "Animal Products", "Artisan Goods", "Cooking", "Fish", "Foraging", "Fruits", "Minerals", "Vegetables"]);
@@ -25,7 +30,12 @@ export class App {
     item8: new FormControl(this.itemCategories()[0]),
     item9: new FormControl(this.itemCategories()[0]),
   })
-  
+
   public scoreVal = 14;
-$number: any;
+  $number: any;
+
+  category(_index: number) {
+    var temp = this.itemForm.get('item' + (_index))?.value;
+    return categoryData[temp as keyof typeof categoryData];
+  }
 }
