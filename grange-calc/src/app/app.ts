@@ -14,18 +14,18 @@ export class App {
   categoryData = categoryData;
   protected readonly title = signal('grange-calc');
 
-  itemCategories = signal(["None", "Animal Products", "Artisan Goods", "Cooking", "Fish", "Forage", "Fruits", "Minerals", "Vegetables"]);
+  itemCategories = ["None", "Animal Products", "Artisan Goods", "Cooking", "Fish", "Forage", "Fruits", "Minerals", "Vegetables"];
 
   itemForm = new FormGroup({
-    item1: new FormControl(this.itemCategories()[0]),
-    item2: new FormControl(this.itemCategories()[0]),
-    item3: new FormControl(this.itemCategories()[0]),
-    item4: new FormControl(this.itemCategories()[0]),
-    item5: new FormControl(this.itemCategories()[0]),
-    item6: new FormControl(this.itemCategories()[0]),
-    item7: new FormControl(this.itemCategories()[0]),
-    item8: new FormControl(this.itemCategories()[0]),
-    item9: new FormControl(this.itemCategories()[0]),
+    item1: new FormControl(this.itemCategories[0]),
+    item2: new FormControl(this.itemCategories[0]),
+    item3: new FormControl(this.itemCategories[0]),
+    item4: new FormControl(this.itemCategories[0]),
+    item5: new FormControl(this.itemCategories[0]),
+    item6: new FormControl(this.itemCategories[0]),
+    item7: new FormControl(this.itemCategories[0]),
+    item8: new FormControl(this.itemCategories[0]),
+    item9: new FormControl(this.itemCategories[0]),
   })
 
   public scoreVal = 14;
