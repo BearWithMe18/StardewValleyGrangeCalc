@@ -11,9 +11,6 @@ import categoryData from '../data/categories.json';
   styleUrl: './app.css'
 })
 export class App {
-  ngOnInit() {
-    console.log(categoryData['Animal Products']);
-  }
   categoryData = categoryData;
   protected readonly title = signal('grange-calc');
 
