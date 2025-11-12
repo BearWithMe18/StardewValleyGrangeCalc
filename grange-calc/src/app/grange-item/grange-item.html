@@ -1,0 +1,7 @@
+<p>Item 1:</p>
+<select>
+  @for (item of itemCategories(); track item){
+  <option>{{item}}</option>
+  }
+</select>
+<p>Item score: {{itemScore()}}</p>

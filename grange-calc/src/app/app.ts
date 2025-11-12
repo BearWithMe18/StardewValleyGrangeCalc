@@ -1,4 +1,4 @@
-import { Component, signal } from '@angular/core';
+import { Component, input, model, signal } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
 import { Score } from './score/score';
 import { FormControl, FormGroup, ReactiveFormsModule } from '@angular/forms';
