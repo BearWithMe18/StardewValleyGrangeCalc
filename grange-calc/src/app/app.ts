@@ -13,6 +13,7 @@ import { GrangeItem } from './grange-item/grange-item';
 })
 export class App {
   categoryData = categoryData;
+
   protected readonly title = signal('grange-calc');
 
   itemCategories = ["None", "Animal Products", "Artisan Goods", "Cooking", "Fish", "Forage", "Fruits", "Minerals", "Vegetables"];

@@ -1,5 +1,4 @@
 import { Component, input, model, signal } from '@angular/core';
-import categoryData from '../../data/categories.json';
 import { FormGroup, FormControl } from '@angular/forms';
 
 @Component({
@@ -9,11 +8,11 @@ import { FormGroup, FormControl } from '@angular/forms';
   styleUrl: './grange-item.css'
 })
 export class GrangeItem {
-  categoryData = categoryData;
+  categoryData = input<any>();
   itemNum = input(1);
   itemCategories = input<string[]>();
   itemScore = model<number>();
-  item = "";
+  item = "None";
   itemName = "";
 
   setItem(item: any){
@@ -21,12 +20,13 @@ export class GrangeItem {
     this.itemName = "";
   }
 
-  setItemName(item: any){
-    this.itemName = item.target.value;
+  setItemName(itemName: any){
+    this.itemName = itemName.target.value;
   }
 
   category(item: string) {
-    return categoryData[item as keyof typeof categoryData];
+    return this.categoryData()[item];
+    //return this.categoryData[item as keyof typeof categoryData];
   }
 
   form = new FormGroup({
