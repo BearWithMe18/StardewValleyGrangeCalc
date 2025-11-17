@@ -4,6 +4,7 @@ import { Score } from './score/score';
 import { FormControl, FormGroup, ReactiveFormsModule } from '@angular/forms';
 import categoryData from '../data/categories.json';
 import { GrangeItem } from './grange-item/grange-item';
+import ItemData from '../data/itemData.json'
 
 @Component({
   selector: 'app-root',
@@ -13,10 +14,13 @@ import { GrangeItem } from './grange-item/grange-item';
 })
 export class App {
   categoryData = categoryData;
+  itemData = ItemData;
 
   protected readonly title = signal('grange-calc');
 
   itemCategories = ["None", "Animal Products", "Artisan Goods", "Cooking", "Fish", "Forage", "Fruits", "Minerals", "Vegetables"];
+
+  qualities = ["Normal", "Silver", "Gold", "Iridium"];
 
   public scoreVal = 14;
   $number: any;

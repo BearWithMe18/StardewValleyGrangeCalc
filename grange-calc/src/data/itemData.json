@@ -1,0 +1,1687 @@
+[
+  {
+    "Name": "Duck Egg",
+    "ItemCategory": "Animal Products",
+    "Price": 95
+  },
+  {
+    "Name": "Duck Feather",
+    "ItemCategory": "Animal Products",
+    "Price": 250
+  },
+  {
+    "Name": "Egg",
+    "ItemCategory": "Animal Products",
+    "Price": 50
+  },
+  {
+    "Name": "Goat Milk",
+    "ItemCategory": "Animal Products",
+    "Price": 225
+  },
+  {
+    "Name": "Golden Egg",
+    "ItemCategory": "Animal Products",
+    "Price": 500
+  },
+  {
+    "Name": "Large Egg",
+    "ItemCategory": "Animal Products",
+    "Price": 95
+  },
+  {
+    "Name": "Large Goat Milk",
+    "ItemCategory": "Animal Products",
+    "Price": 345
+  },
+  {
+    "Name": "Large Milk",
+    "ItemCategory": "Animal Products",
+    "Price": 190
+  },
+  {
+    "Name": "Milk",
+    "ItemCategory": "Animal Products",
+    "Price": 125
+  },
+  {
+    "Name": "Ostrich Egg",
+    "ItemCategory": "Animal Products",
+    "Price": 600
+  },
+  {
+    "Name": "Rabbit's Foot",
+    "ItemCategory": "Animal Products",
+    "Price": 565
+  },
+  {
+    "Name": "Void Egg",
+    "ItemCategory": "Animal Products",
+    "Price": 65
+  },
+  {
+    "Name": "Wool",
+    "ItemCategory": "Animal Products",
+    "Price": 340
+  },
+  {
+    "Name": "Aged Roe",
+    "ItemCategory": "Artisan Goods",
+    "Price": 100
+  },
+  {
+    "Name": "Beer",
+    "ItemCategory": "Artisan Goods",
+    "Price": 200
+  },
+  {
+    "Name": "Caviar",
+    "ItemCategory": "Artisan Goods",
+    "Price": 500
+  },
+  {
+    "Name": "Cheese",
+    "ItemCategory": "Artisan Goods",
+    "Price": 230
+  },
+  {
+    "Name": "Cloth",
+    "ItemCategory": "Artisan Goods",
+    "Price": 470
+  },
+  {
+    "Name": "Dinosaur Mayonnaise",
+    "ItemCategory": "Artisan Goods",
+    "Price": 800
+  },
+  {
+    "Name": "Duck Mayonnaise",
+    "ItemCategory": "Artisan Goods",
+    "Price": 375
+  },
+  {
+    "Name": "Goat Cheese",
+    "ItemCategory": "Artisan Goods",
+    "Price": 400
+  },
+  {
+    "Name": "Green Tea",
+    "ItemCategory": "Artisan Goods",
+    "Price": 100
+  },
+  {
+    "Name": "Mayonnaise",
+    "ItemCategory": "Artisan Goods",
+    "Price": 190
+  },
+  {
+    "Name": "Mead",
+    "ItemCategory": "Artisan Goods",
+    "Price": 300
+  },
+  {
+    "Name": "Pale Ale",
+    "ItemCategory": "Artisan Goods",
+    "Price": 300
+  },
+  {
+    "Name": "Truffle Oil",
+    "ItemCategory": "Artisan Goods",
+    "Price": 1065
+  },
+  {
+    "Name": "Void Mayonnaise",
+    "ItemCategory": "Artisan Goods",
+    "Price": 275
+  },
+  {
+    "Name": "Honey",
+    "ItemCategory": "Artisan Goods",
+    "Price": 100
+  },
+  {
+    "Name": "Jelly",
+    "ItemCategory": "Artisan Goods",
+    "Price": 160
+  },
+  {
+    "Name": "Wine",
+    "ItemCategory": "Artisan Goods",
+    "Price": 400
+  },
+  {
+    "Name": "Juice",
+    "ItemCategory": "Artisan Goods",
+    "Price": 150
+  },
+  {
+    "Name": "Pickles",
+    "ItemCategory": "Artisan Goods",
+    "Price": 100
+  },
+  {
+    "Name": "Beer",
+    "ItemCategory": "Cooking",
+    "Price": 200
+  },
+  {
+    "Name": "Caviar",
+    "ItemCategory": "Cooking",
+    "Price": 500
+  },
+  {
+    "Name": "Cheese",
+    "ItemCategory": "Cooking",
+    "Price": 230
+  },
+  {
+    "Name": "Cloth",
+    "ItemCategory": "Cooking",
+    "Price": 470
+  },
+  {
+    "Name": "Dinosaur Mayonnaise",
+    "ItemCategory": "Cooking",
+    "Price": 800
+  },
+  {
+    "Name": "Duck Mayonnaise",
+    "ItemCategory": "Cooking",
+    "Price": 375
+  },
+  {
+    "Name": "Goat Cheese",
+    "ItemCategory": "Cooking",
+    "Price": 400
+  },
+  {
+    "Name": "Green Tea",
+    "ItemCategory": "Cooking",
+    "Price": 100
+  },
+  {
+    "Name": "Mayonnaise",
+    "ItemCategory": "Cooking",
+    "Price": 190
+  },
+  {
+    "Name": "Algae Soup",
+    "ItemCategory": "Cooking",
+    "Price": 100
+  },
+  {
+    "Name": "Artichoke Dip",
+    "ItemCategory": "Cooking",
+    "Price": 210
+  },
+  {
+    "Name": "Autumn's Bounty",
+    "ItemCategory": "Cooking",
+    "Price": 350
+  },
+  {
+    "Name": "Baked Fish",
+    "ItemCategory": "Cooking",
+    "Price": 100
+  },
+  {
+    "Name": "Banana Pudding",
+    "ItemCategory": "Cooking",
+    "Price": 260
+  },
+  {
+    "Name": "Bean Hotpot",
+    "ItemCategory": "Cooking",
+    "Price": 100
+  },
+  {
+    "Name": "Blackberry Cobbler",
+    "ItemCategory": "Cooking",
+    "Price": 260
+  },
+  {
+    "Name": "Blueberry Tart",
+    "ItemCategory": "Cooking",
+    "Price": 150
+  },
+  {
+    "Name": "Bread",
+    "ItemCategory": "Cooking",
+    "Price": 60
+  },
+  {
+    "Name": "Bruschetta",
+    "ItemCategory": "Cooking",
+    "Price": 210
+  },
+  {
+    "Name": "Carp Surprise",
+    "ItemCategory": "Cooking",
+    "Price": 150
+  },
+  {
+    "Name": "Cheese Cauliflower",
+    "ItemCategory": "Cooking",
+    "Price": 300
+  },
+  {
+    "Name": "Chocolate Cake",
+    "ItemCategory": "Cooking",
+    "Price": 200
+  },
+  {
+    "Name": "Chowder",
+    "ItemCategory": "Cooking",
+    "Price": 135
+  },
+  {
+    "Name": "Coleslaw",
+    "ItemCategory": "Cooking",
+    "Price": 345
+  },
+  {
+    "Name": "Complete Breakfast",
+    "ItemCategory": "Cooking",
+    "Price": 350
+  },
+  {
+    "Name": "Cookie",
+    "ItemCategory": "Cooking",
+    "Price": 140
+  },
+  {
+    "Name": "Crab Cakes",
+    "ItemCategory": "Cooking",
+    "Price": 275
+  },
+  {
+    "Name": "Cranberry Candy",
+    "ItemCategory": "Cooking",
+    "Price": 175
+  },
+  {
+    "Name": "Cranberry Sauce",
+    "ItemCategory": "Cooking",
+    "Price": 120
+  },
+  {
+    "Name": "Crispy Bass",
+    "ItemCategory": "Cooking",
+    "Price": 150
+  },
+  {
+    "Name": "Dish O' The Sea",
+    "ItemCategory": "Cooking",
+    "Price": 220
+  },
+  {
+    "Name": "Eggplant Parmesan",
+    "ItemCategory": "Cooking",
+    "Price": 200
+  },
+  {
+    "Name": "Escargot",
+    "ItemCategory": "Cooking",
+    "Price": 125
+  },
+  {
+    "Name": "Farmer's Lunch",
+    "ItemCategory": "Cooking",
+    "Price": 150
+  },
+  {
+    "Name": "Fiddlehead Risotto",
+    "ItemCategory": "Cooking",
+    "Price": 350
+  },
+  {
+    "Name": "Fish Stew",
+    "ItemCategory": "Cooking",
+    "Price": 175
+  },
+  {
+    "Name": "Fish Taco",
+    "ItemCategory": "Cooking",
+    "Price": 500
+  },
+  {
+    "Name": "Fried Calamari",
+    "ItemCategory": "Cooking",
+    "Price": 150
+  },
+  {
+    "Name": "Fried Eel",
+    "ItemCategory": "Cooking",
+    "Price": 120
+  },
+  {
+    "Name": "Fried Egg",
+    "ItemCategory": "Cooking",
+    "Price": 35
+  },
+  {
+    "Name": "Fried Mushroom",
+    "ItemCategory": "Cooking",
+    "Price": 200
+  },
+  {
+    "Name": "Fruit Salad",
+    "ItemCategory": "Cooking",
+    "Price": 450
+  },
+  {
+    "Name": "Ginger Ale",
+    "ItemCategory": "Cooking",
+    "Price": 200
+  },
+  {
+    "Name": "Glazed Yams",
+    "ItemCategory": "Cooking",
+    "Price": 200
+  },
+  {
+    "Name": "Hashbrowns",
+    "ItemCategory": "Cooking",
+    "Price": 120
+  },
+  {
+    "Name": "Ice Cream",
+    "ItemCategory": "Cooking",
+    "Price": 120
+  },
+  {
+    "Name": "Life Elixir",
+    "ItemCategory": "Cooking",
+    "Price": 250
+  },
+  {
+    "Name": "Lobster Bisque",
+    "ItemCategory": "Cooking",
+    "Price": 205
+  },
+  {
+    "Name": "Lucky Lunch",
+    "ItemCategory": "Cooking",
+    "Price": 250
+  },
+  {
+    "Name": "Magic Rock Candy",
+    "ItemCategory": "Cooking",
+    "Price": 5000
+  },
+  {
+    "Name": "Maki Roll",
+    "ItemCategory": "Cooking",
+    "Price": 220
+  },
+  {
+    "Name": "Mango Sticky Rice",
+    "ItemCategory": "Cooking",
+    "Price": 250
+  },
+  {
+    "Name": "Maple Bar",
+    "ItemCategory": "Cooking",
+    "Price": 300
+  },
+  {
+    "Name": "Miner's Treat",
+    "ItemCategory": "Cooking",
+    "Price": 200
+  },
+  {
+    "Name": "Moss Soup",
+    "ItemCategory": "Cooking",
+    "Price": 80
+  },
+  {
+    "Name": "Oil of Garlic",
+    "ItemCategory": "Cooking",
+    "Price": 1000
+  },
+  {
+    "Name": "Omelet",
+    "ItemCategory": "Cooking",
+    "Price": 125
+  },
+  {
+    "Name": "Pale Broth",
+    "ItemCategory": "Cooking",
+    "Price": 150
+  },
+  {
+    "Name": "Pancakes",
+    "ItemCategory": "Cooking",
+    "Price": 80
+  },
+  {
+    "Name": "Parsnip Soup",
+    "ItemCategory": "Cooking",
+    "Price": 120
+  },
+  {
+    "Name": "Pepper Poppers",
+    "ItemCategory": "Cooking",
+    "Price": 200
+  },
+  {
+    "Name": "Pi\u00f1a Colada",
+    "ItemCategory": "Cooking",
+    "Price": 300
+  },
+  {
+    "Name": "Pink Cake",
+    "ItemCategory": "Cooking",
+    "Price": 480
+  },
+  {
+    "Name": "Pizza",
+    "ItemCategory": "Cooking",
+    "Price": 300
+  },
+  {
+    "Name": "Plum Pudding",
+    "ItemCategory": "Cooking",
+    "Price": 260
+  },
+  {
+    "Name": "Poi",
+    "ItemCategory": "Cooking",
+    "Price": 400
+  },
+  {
+    "Name": "Poppyseed Muffin",
+    "ItemCategory": "Cooking",
+    "Price": 250
+  },
+  {
+    "Name": "Pumpkin Pie",
+    "ItemCategory": "Cooking",
+    "Price": 385
+  },
+  {
+    "Name": "Pumpkin Soup",
+    "ItemCategory": "Cooking",
+    "Price": 300
+  },
+  {
+    "Name": "Radish Salad",
+    "ItemCategory": "Cooking",
+    "Price": 300
+  },
+  {
+    "Name": "Red Plate",
+    "ItemCategory": "Cooking",
+    "Price": 400
+  },
+  {
+    "Name": "Rhubarb Pie",
+    "ItemCategory": "Cooking",
+    "Price": 400
+  },
+  {
+    "Name": "Rice Pudding",
+    "ItemCategory": "Cooking",
+    "Price": 260
+  },
+  {
+    "Name": "Roasted Hazelnuts",
+    "ItemCategory": "Cooking",
+    "Price": 270
+  },
+  {
+    "Name": "Roots Platter",
+    "ItemCategory": "Cooking",
+    "Price": 100
+  },
+  {
+    "Name": "Salad",
+    "ItemCategory": "Cooking",
+    "Price": 110
+  },
+  {
+    "Name": "Salmon Dinner",
+    "ItemCategory": "Cooking",
+    "Price": 300
+  },
+  {
+    "Name": "Sashimi",
+    "ItemCategory": "Cooking",
+    "Price": 75
+  },
+  {
+    "Name": "Seafoam Pudding",
+    "ItemCategory": "Cooking",
+    "Price": 300
+  },
+  {
+    "Name": "Shrimp Cocktail",
+    "ItemCategory": "Cooking",
+    "Price": 160
+  },
+  {
+    "Name": "Spaghetti",
+    "ItemCategory": "Cooking",
+    "Price": 120
+  },
+  {
+    "Name": "Spicy Eel",
+    "ItemCategory": "Cooking",
+    "Price": 175
+  },
+  {
+    "Name": "Squid Ink Ravioli",
+    "ItemCategory": "Cooking",
+    "Price": 150
+  },
+  {
+    "Name": "Stir Fry",
+    "ItemCategory": "Cooking",
+    "Price": 335
+  },
+  {
+    "Name": "Strange Bun",
+    "ItemCategory": "Cooking",
+    "Price": 225
+  },
+  {
+    "Name": "Stuffing",
+    "ItemCategory": "Cooking",
+    "Price": 165
+  },
+  {
+    "Name": "Super Meal",
+    "ItemCategory": "Cooking",
+    "Price": 220
+  },
+  {
+    "Name": "Survival Burger",
+    "ItemCategory": "Cooking",
+    "Price": 180
+  },
+  {
+    "Name": "Tom Kha Soup",
+    "ItemCategory": "Cooking",
+    "Price": 250
+  },
+  {
+    "Name": "Tortilla",
+    "ItemCategory": "Cooking",
+    "Price": 50
+  },
+  {
+    "Name": "Triple Shot Espresso",
+    "ItemCategory": "Cooking",
+    "Price": 450
+  },
+  {
+    "Name": "Tropical Curry",
+    "ItemCategory": "Cooking",
+    "Price": 500
+  },
+  {
+    "Name": "Trout Soup",
+    "ItemCategory": "Cooking",
+    "Price": 100
+  },
+  {
+    "Name": "Vegetable Medley",
+    "ItemCategory": "Cooking",
+    "Price": 120
+  },
+  {
+    "Name": "Mead",
+    "ItemCategory": "Cooking",
+    "Price": 300
+  },
+  {
+    "Name": "Pale Ale",
+    "ItemCategory": "Cooking",
+    "Price": 300
+  },
+  {
+    "Name": "Truffle Oil",
+    "ItemCategory": "Cooking",
+    "Price": 1065
+  },
+  {
+    "Name": "Void Mayonnaise",
+    "ItemCategory": "Cooking",
+    "Price": 275
+  },
+  {
+    "Name": "Albacore",
+    "ItemCategory": "Fish",
+    "Price": 75
+  },
+  {
+    "Name": "Anchovy",
+    "ItemCategory": "Fish",
+    "Price": 30
+  },
+  {
+    "Name": "Angler",
+    "ItemCategory": "Fish",
+    "Price": 900
+  },
+  {
+    "Name": "Blobfish",
+    "ItemCategory": "Fish",
+    "Price": 500
+  },
+  {
+    "Name": "Blue Discus",
+    "ItemCategory": "Fish",
+    "Price": 120
+  },
+  {
+    "Name": "Bream",
+    "ItemCategory": "Fish",
+    "Price": 45
+  },
+  {
+    "Name": "Bullhead",
+    "ItemCategory": "Fish",
+    "Price": 75
+  },
+  {
+    "Name": "Carp",
+    "ItemCategory": "Fish",
+    "Price": 30
+  },
+  {
+    "Name": "Catfish",
+    "ItemCategory": "Fish",
+    "Price": 200
+  },
+  {
+    "Name": "Chub",
+    "ItemCategory": "Fish",
+    "Price": 50
+  },
+  {
+    "Name": "Clam",
+    "ItemCategory": "Fish",
+    "Price": 50
+  },
+  {
+    "Name": "Cockle",
+    "ItemCategory": "Fish",
+    "Price": 50
+  },
+  {
+    "Name": "Crab",
+    "ItemCategory": "Fish",
+    "Price": 100
+  },
+  {
+    "Name": "Crayfish",
+    "ItemCategory": "Fish",
+    "Price": 75
+  },
+  {
+    "Name": "Crimsonfish",
+    "ItemCategory": "Fish",
+    "Price": 1500
+  },
+  {
+    "Name": "Dorado",
+    "ItemCategory": "Fish",
+    "Price": 100
+  },
+  {
+    "Name": "Eel",
+    "ItemCategory": "Fish",
+    "Price": 85
+  },
+  {
+    "Name": "Flounder",
+    "ItemCategory": "Fish",
+    "Price": 100
+  },
+  {
+    "Name": "Ghostfish",
+    "ItemCategory": "Fish",
+    "Price": 45
+  },
+  {
+    "Name": "Glacierfish",
+    "ItemCategory": "Fish",
+    "Price": 1000
+  },
+  {
+    "Name": "Glacierfish Jr.",
+    "ItemCategory": "Fish",
+    "Price": 1000
+  },
+  {
+    "Name": "Goby",
+    "ItemCategory": "Fish",
+    "Price": 150
+  },
+  {
+    "Name": "Halibut",
+    "ItemCategory": "Fish",
+    "Price": 80
+  },
+  {
+    "Name": "Herring",
+    "ItemCategory": "Fish",
+    "Price": 30
+  },
+  {
+    "Name": "Ice Pip",
+    "ItemCategory": "Fish",
+    "Price": 500
+  },
+  {
+    "Name": "Largemouth Bass",
+    "ItemCategory": "Fish",
+    "Price": 100
+  },
+  {
+    "Name": "Lava Eel",
+    "ItemCategory": "Fish",
+    "Price": 700
+  },
+  {
+    "Name": "Legend",
+    "ItemCategory": "Fish",
+    "Price": 5000
+  },
+  {
+    "Name": "Legend II",
+    "ItemCategory": "Fish",
+    "Price": 5000
+  },
+  {
+    "Name": "Lingcod",
+    "ItemCategory": "Fish",
+    "Price": 120
+  },
+  {
+    "Name": "Lionfish",
+    "ItemCategory": "Fish",
+    "Price": 100
+  },
+  {
+    "Name": "Lobster",
+    "ItemCategory": "Fish",
+    "Price": 120
+  },
+  {
+    "Name": "Midnight Carp",
+    "ItemCategory": "Fish",
+    "Price": 150
+  },
+  {
+    "Name": "Midnight Squid",
+    "ItemCategory": "Fish",
+    "Price": 100
+  },
+  {
+    "Name": "Ms. Angler",
+    "ItemCategory": "Fish",
+    "Price": 900
+  },
+  {
+    "Name": "Mussel",
+    "ItemCategory": "Fish",
+    "Price": 30
+  },
+  {
+    "Name": "Mutant Carp",
+    "ItemCategory": "Fish",
+    "Price": 1000
+  },
+  {
+    "Name": "Octopus",
+    "ItemCategory": "Fish",
+    "Price": 150
+  },
+  {
+    "Name": "Oyster",
+    "ItemCategory": "Fish",
+    "Price": 40
+  },
+  {
+    "Name": "Perch",
+    "ItemCategory": "Fish",
+    "Price": 55
+  },
+  {
+    "Name": "Periwinkle",
+    "ItemCategory": "Fish",
+    "Price": 20
+  },
+  {
+    "Name": "Pike",
+    "ItemCategory": "Fish",
+    "Price": 100
+  },
+  {
+    "Name": "Pufferfish",
+    "ItemCategory": "Fish",
+    "Price": 200
+  },
+  {
+    "Name": "Radioactive Carp",
+    "ItemCategory": "Fish",
+    "Price": 1000
+  },
+  {
+    "Name": "Rainbow Trout",
+    "ItemCategory": "Fish",
+    "Price": 65
+  },
+  {
+    "Name": "Red Mullet",
+    "ItemCategory": "Fish",
+    "Price": 75
+  },
+  {
+    "Name": "Red Snapper",
+    "ItemCategory": "Fish",
+    "Price": 50
+  },
+  {
+    "Name": "Salmon",
+    "ItemCategory": "Fish",
+    "Price": 75
+  },
+  {
+    "Name": "Sandfish",
+    "ItemCategory": "Fish",
+    "Price": 75
+  },
+  {
+    "Name": "Sardine",
+    "ItemCategory": "Fish",
+    "Price": 40
+  },
+  {
+    "Name": "Scorpion Carp",
+    "ItemCategory": "Fish",
+    "Price": 150
+  },
+  {
+    "Name": "Sea Cucumber",
+    "ItemCategory": "Fish",
+    "Price": 75
+  },
+  {
+    "Name": "Shad",
+    "ItemCategory": "Fish",
+    "Price": 60
+  },
+  {
+    "Name": "Shrimp",
+    "ItemCategory": "Fish",
+    "Price": 60
+  },
+  {
+    "Name": "Slimejack",
+    "ItemCategory": "Fish",
+    "Price": 100
+  },
+  {
+    "Name": "Smallmouth Bass",
+    "ItemCategory": "Fish",
+    "Price": 50
+  },
+  {
+    "Name": "Snail",
+    "ItemCategory": "Fish",
+    "Price": 65
+  },
+  {
+    "Name": "Son of Crimsonfish",
+    "ItemCategory": "Fish",
+    "Price": 1500
+  },
+  {
+    "Name": "Spook Fish",
+    "ItemCategory": "Fish",
+    "Price": 220
+  },
+  {
+    "Name": "Squid",
+    "ItemCategory": "Fish",
+    "Price": 80
+  },
+  {
+    "Name": "Stingray",
+    "ItemCategory": "Fish",
+    "Price": 180
+  },
+  {
+    "Name": "Stonefish",
+    "ItemCategory": "Fish",
+    "Price": 300
+  },
+  {
+    "Name": "Sturgeon",
+    "ItemCategory": "Fish",
+    "Price": 200
+  },
+  {
+    "Name": "Sunfish",
+    "ItemCategory": "Fish",
+    "Price": 30
+  },
+  {
+    "Name": "Super Cucumber",
+    "ItemCategory": "Fish",
+    "Price": 250
+  },
+  {
+    "Name": "Tiger Trout",
+    "ItemCategory": "Fish",
+    "Price": 150
+  },
+  {
+    "Name": "Tilapia",
+    "ItemCategory": "Fish",
+    "Price": 75
+  },
+  {
+    "Name": "Tuna",
+    "ItemCategory": "Fish",
+    "Price": 100
+  },
+  {
+    "Name": "Void Salmon",
+    "ItemCategory": "Fish",
+    "Price": 150
+  },
+  {
+    "Name": "Walleye",
+    "ItemCategory": "Fish",
+    "Price": 105
+  },
+  {
+    "Name": "Woodskip",
+    "ItemCategory": "Fish",
+    "Price": 75
+  },
+  {
+    "Name": "Maple Syrup",
+    "ItemCategory": "Forage",
+    "Price": 200
+  },
+  {
+    "Name": "Mystic Syrup",
+    "ItemCategory": "Forage",
+    "Price": 1000
+  },
+  {
+    "Name": "Oak Resin",
+    "ItemCategory": "Forage",
+    "Price": 150
+  },
+  {
+    "Name": "Pine Tar",
+    "ItemCategory": "Forage",
+    "Price": 100
+  },
+  {
+    "Name": "Blue Jazz",
+    "ItemCategory": "Forage",
+    "Price": 50
+  },
+  {
+    "Name": "Crocus",
+    "ItemCategory": "Forage",
+    "Price": 60
+  },
+  {
+    "Name": "Fairy Rose",
+    "ItemCategory": "Forage",
+    "Price": 290
+  },
+  {
+    "Name": "Poppy",
+    "ItemCategory": "Forage",
+    "Price": 140
+  },
+  {
+    "Name": "Summer Spangle",
+    "ItemCategory": "Forage",
+    "Price": 90
+  },
+  {
+    "Name": "Sunflower",
+    "ItemCategory": "Forage",
+    "Price": 80
+  },
+  {
+    "Name": "Sweet Pea",
+    "ItemCategory": "Forage",
+    "Price": 50
+  },
+  {
+    "Name": "Tulip",
+    "ItemCategory": "Forage",
+    "Price": 30
+  },
+  {
+    "Name": "Cave Carrot",
+    "ItemCategory": "Forage",
+    "Price": 25
+  },
+  {
+    "Name": "Chanterelle",
+    "ItemCategory": "Forage",
+    "Price": 160
+  },
+  {
+    "Name": "Common Mushroom",
+    "ItemCategory": "Forage",
+    "Price": 40
+  },
+  {
+    "Name": "Daffodil",
+    "ItemCategory": "Forage",
+    "Price": 30
+  },
+  {
+    "Name": "Dandelion",
+    "ItemCategory": "Forage",
+    "Price": 40
+  },
+  {
+    "Name": "Ginger",
+    "ItemCategory": "Forage",
+    "Price": 60
+  },
+  {
+    "Name": "Hazelnut",
+    "ItemCategory": "Forage",
+    "Price": 90
+  },
+  {
+    "Name": "Holly",
+    "ItemCategory": "Forage",
+    "Price": 80
+  },
+  {
+    "Name": "Leek",
+    "ItemCategory": "Forage",
+    "Price": 60
+  },
+  {
+    "Name": "Magma Cap",
+    "ItemCategory": "Forage",
+    "Price": 400
+  },
+  {
+    "Name": "Morel",
+    "ItemCategory": "Forage",
+    "Price": 150
+  },
+  {
+    "Name": "Purple Mushroom",
+    "ItemCategory": "Forage",
+    "Price": 250
+  },
+  {
+    "Name": "Red Mushroom",
+    "ItemCategory": "Forage",
+    "Price": 75
+  },
+  {
+    "Name": "Sap",
+    "ItemCategory": "Forage",
+    "Price": 2
+  },
+  {
+    "Name": "Snow Yam",
+    "ItemCategory": "Forage",
+    "Price": 100
+  },
+  {
+    "Name": "Spring Onion",
+    "ItemCategory": "Forage",
+    "Price": 8
+  },
+  {
+    "Name": "Wild Horseradish",
+    "ItemCategory": "Forage",
+    "Price": 50
+  },
+  {
+    "Name": "Winter Root",
+    "ItemCategory": "Forage",
+    "Price": 70
+  },
+  {
+    "Name": "Ancient Fruit",
+    "ItemCategory": "Fruits",
+    "Price": 550
+  },
+  {
+    "Name": "Apple",
+    "ItemCategory": "Fruits",
+    "Price": 100
+  },
+  {
+    "Name": "Apricot",
+    "ItemCategory": "Fruits",
+    "Price": 50
+  },
+  {
+    "Name": "Banana",
+    "ItemCategory": "Fruits",
+    "Price": 150
+  },
+  {
+    "Name": "Blackberry",
+    "ItemCategory": "Fruits",
+    "Price": 20
+  },
+  {
+    "Name": "Blueberry",
+    "ItemCategory": "Fruits",
+    "Price": 50
+  },
+  {
+    "Name": "Cactus Fruit",
+    "ItemCategory": "Fruits",
+    "Price": 75
+  },
+  {
+    "Name": "Cherry",
+    "ItemCategory": "Fruits",
+    "Price": 80
+  },
+  {
+    "Name": "Coconut",
+    "ItemCategory": "Fruits",
+    "Price": 100
+  },
+  {
+    "Name": "Cranberries",
+    "ItemCategory": "Fruits",
+    "Price": 75
+  },
+  {
+    "Name": "Crystal Fruit",
+    "ItemCategory": "Fruits",
+    "Price": 150
+  },
+  {
+    "Name": "Grape",
+    "ItemCategory": "Fruits",
+    "Price": 80
+  },
+  {
+    "Name": "Hot Pepper",
+    "ItemCategory": "Fruits",
+    "Price": 40
+  },
+  {
+    "Name": "Mango",
+    "ItemCategory": "Fruits",
+    "Price": 130
+  },
+  {
+    "Name": "Melon",
+    "ItemCategory": "Fruits",
+    "Price": 250
+  },
+  {
+    "Name": "Orange",
+    "ItemCategory": "Fruits",
+    "Price": 100
+  },
+  {
+    "Name": "Peach",
+    "ItemCategory": "Fruits",
+    "Price": 140
+  },
+  {
+    "Name": "Pineapple",
+    "ItemCategory": "Fruits",
+    "Price": 300
+  },
+  {
+    "Name": "Pomegranate",
+    "ItemCategory": "Fruits",
+    "Price": 140
+  },
+  {
+    "Name": "Powdermelon",
+    "ItemCategory": "Fruits",
+    "Price": 60
+  },
+  {
+    "Name": "Qi Fruit",
+    "ItemCategory": "Fruits",
+    "Price": 1
+  },
+  {
+    "Name": "Rhubarb",
+    "ItemCategory": "Fruits",
+    "Price": 220
+  },
+  {
+    "Name": "Salmonberry",
+    "ItemCategory": "Fruits",
+    "Price": 5
+  },
+  {
+    "Name": "Spice Berry",
+    "ItemCategory": "Fruits",
+    "Price": 80
+  },
+  {
+    "Name": "Starfruit",
+    "ItemCategory": "Fruits",
+    "Price": 750
+  },
+  {
+    "Name": "Strawberry",
+    "ItemCategory": "Fruits",
+    "Price": 120
+  },
+  {
+    "Name": "Wild Plum",
+    "ItemCategory": "Fruits",
+    "Price": 80
+  },
+  {
+    "Name": "Aerinite",
+    "ItemCategory": "Minerals",
+    "Price": 125
+  },
+  {
+    "Name": "Alamite",
+    "ItemCategory": "Minerals",
+    "Price": 150
+  },
+  {
+    "Name": "Amethyst",
+    "ItemCategory": "Minerals",
+    "Price": 100
+  },
+  {
+    "Name": "Aquamarine",
+    "ItemCategory": "Minerals",
+    "Price": 180
+  },
+  {
+    "Name": "Baryte",
+    "ItemCategory": "Minerals",
+    "Price": 50
+  },
+  {
+    "Name": "Basalt",
+    "ItemCategory": "Minerals",
+    "Price": 175
+  },
+  {
+    "Name": "Bixite",
+    "ItemCategory": "Minerals",
+    "Price": 300
+  },
+  {
+    "Name": "Calcite",
+    "ItemCategory": "Minerals",
+    "Price": 75
+  },
+  {
+    "Name": "Celestine",
+    "ItemCategory": "Minerals",
+    "Price": 125
+  },
+  {
+    "Name": "Diamond",
+    "ItemCategory": "Minerals",
+    "Price": 750
+  },
+  {
+    "Name": "Dolomite",
+    "ItemCategory": "Minerals",
+    "Price": 300
+  },
+  {
+    "Name": "Earth Crystal",
+    "ItemCategory": "Minerals",
+    "Price": 50
+  },
+  {
+    "Name": "Emerald",
+    "ItemCategory": "Minerals",
+    "Price": 250
+  },
+  {
+    "Name": "Esperite",
+    "ItemCategory": "Minerals",
+    "Price": 100
+  },
+  {
+    "Name": "Fairy Stone",
+    "ItemCategory": "Minerals",
+    "Price": 250
+  },
+  {
+    "Name": "Fire Opal",
+    "ItemCategory": "Minerals",
+    "Price": 350
+  },
+  {
+    "Name": "Fire Quartz",
+    "ItemCategory": "Minerals",
+    "Price": 100
+  },
+  {
+    "Name": "Fluorapatite",
+    "ItemCategory": "Minerals",
+    "Price": 200
+  },
+  {
+    "Name": "Frozen Tear",
+    "ItemCategory": "Minerals",
+    "Price": 75
+  },
+  {
+    "Name": "Geminite",
+    "ItemCategory": "Minerals",
+    "Price": 150
+  },
+  {
+    "Name": "Ghost Crystal",
+    "ItemCategory": "Minerals",
+    "Price": 200
+  },
+  {
+    "Name": "Granite",
+    "ItemCategory": "Minerals",
+    "Price": 75
+  },
+  {
+    "Name": "Helvite",
+    "ItemCategory": "Minerals",
+    "Price": 450
+  },
+  {
+    "Name": "Hematite",
+    "ItemCategory": "Minerals",
+    "Price": 150
+  },
+  {
+    "Name": "Jade",
+    "ItemCategory": "Minerals",
+    "Price": 200
+  },
+  {
+    "Name": "Jagoite",
+    "ItemCategory": "Minerals",
+    "Price": 115
+  },
+  {
+    "Name": "Jamborite",
+    "ItemCategory": "Minerals",
+    "Price": 150
+  },
+  {
+    "Name": "Jasper",
+    "ItemCategory": "Minerals",
+    "Price": 150
+  },
+  {
+    "Name": "Kyanite",
+    "ItemCategory": "Minerals",
+    "Price": 250
+  },
+  {
+    "Name": "Lemon Stone",
+    "ItemCategory": "Minerals",
+    "Price": 200
+  },
+  {
+    "Name": "Limestone",
+    "ItemCategory": "Minerals",
+    "Price": 15
+  },
+  {
+    "Name": "Lunarite",
+    "ItemCategory": "Minerals",
+    "Price": 200
+  },
+  {
+    "Name": "Malachite",
+    "ItemCategory": "Minerals",
+    "Price": 100
+  },
+  {
+    "Name": "Marble",
+    "ItemCategory": "Minerals",
+    "Price": 110
+  },
+  {
+    "Name": "Mudstone",
+    "ItemCategory": "Minerals",
+    "Price": 25
+  },
+  {
+    "Name": "Nekoite",
+    "ItemCategory": "Minerals",
+    "Price": 80
+  },
+  {
+    "Name": "Neptunite",
+    "ItemCategory": "Minerals",
+    "Price": 400
+  },
+  {
+    "Name": "Obsidian",
+    "ItemCategory": "Minerals",
+    "Price": 200
+  },
+  {
+    "Name": "Ocean Stone",
+    "ItemCategory": "Minerals",
+    "Price": 220
+  },
+  {
+    "Name": "Opal",
+    "ItemCategory": "Minerals",
+    "Price": 150
+  },
+  {
+    "Name": "Orpiment",
+    "ItemCategory": "Minerals",
+    "Price": 80
+  },
+  {
+    "Name": "Petrified Slime",
+    "ItemCategory": "Minerals",
+    "Price": 120
+  },
+  {
+    "Name": "Prismatic Shard",
+    "ItemCategory": "Minerals",
+    "Price": 2000
+  },
+  {
+    "Name": "Pyrite",
+    "ItemCategory": "Minerals",
+    "Price": 120
+  },
+  {
+    "Name": "Quartz",
+    "ItemCategory": "Minerals",
+    "Price": 25
+  },
+  {
+    "Name": "Ruby",
+    "ItemCategory": "Minerals",
+    "Price": 250
+  },
+  {
+    "Name": "Sandstone",
+    "ItemCategory": "Minerals",
+    "Price": 60
+  },
+  {
+    "Name": "Slate",
+    "ItemCategory": "Minerals",
+    "Price": 85
+  },
+  {
+    "Name": "Soapstone",
+    "ItemCategory": "Minerals",
+    "Price": 120
+  },
+  {
+    "Name": "Star Shards",
+    "ItemCategory": "Minerals",
+    "Price": 500
+  },
+  {
+    "Name": "Thunder Egg",
+    "ItemCategory": "Minerals",
+    "Price": 100
+  },
+  {
+    "Name": "Tigerseye",
+    "ItemCategory": "Minerals",
+    "Price": 275
+  },
+  {
+    "Name": "Topaz",
+    "ItemCategory": "Minerals",
+    "Price": 80
+  },
+  {
+    "Name": "Amaranth",
+    "ItemCategory": "Vegetables",
+    "Price": 150
+  },
+  {
+    "Name": "Artichoke",
+    "ItemCategory": "Vegetables",
+    "Price": 160
+  },
+  {
+    "Name": "Beet",
+    "ItemCategory": "Vegetables",
+    "Price": 100
+  },
+  {
+    "Name": "Bok Choy",
+    "ItemCategory": "Vegetables",
+    "Price": 80
+  },
+  {
+    "Name": "Broccoli",
+    "ItemCategory": "Vegetables",
+    "Price": 70
+  },
+  {
+    "Name": "Carrot",
+    "ItemCategory": "Vegetables",
+    "Price": 35
+  },
+  {
+    "Name": "Cauliflower",
+    "ItemCategory": "Vegetables",
+    "Price": 175
+  },
+  {
+    "Name": "Corn",
+    "ItemCategory": "Vegetables",
+    "Price": 50
+  },
+  {
+    "Name": "Eggplant",
+    "ItemCategory": "Vegetables",
+    "Price": 60
+  },
+  {
+    "Name": "Fiddlehead Fern",
+    "ItemCategory": "Vegetables",
+    "Price": 90
+  },
+  {
+    "Name": "Garlic",
+    "ItemCategory": "Vegetables",
+    "Price": 60
+  },
+  {
+    "Name": "Green Bean",
+    "ItemCategory": "Vegetables",
+    "Price": 40
+  },
+  {
+    "Name": "Hops",
+    "ItemCategory": "Vegetables",
+    "Price": 25
+  },
+  {
+    "Name": "Kale",
+    "ItemCategory": "Vegetables",
+    "Price": 110
+  },
+  {
+    "Name": "Parsnip",
+    "ItemCategory": "Vegetables",
+    "Price": 35
+  },
+  {
+    "Name": "Potato",
+    "ItemCategory": "Vegetables",
+    "Price": 80
+  },
+  {
+    "Name": "Pumpkin",
+    "ItemCategory": "Vegetables",
+    "Price": 320
+  },
+  {
+    "Name": "Radish",
+    "ItemCategory": "Vegetables",
+    "Price": 90
+  },
+  {
+    "Name": "Red Cabbage",
+    "ItemCategory": "Vegetables",
+    "Price": 260
+  },
+  {
+    "Name": "Summer Squash",
+    "ItemCategory": "Vegetables",
+    "Price": 45
+  },
+  {
+    "Name": "Taro Root",
+    "ItemCategory": "Vegetables",
+    "Price": 100
+  },
+  {
+    "Name": "Tea Leaves",
+    "ItemCategory": "Vegetables",
+    "Price": 50
+  },
+  {
+    "Name": "Tomato",
+    "ItemCategory": "Vegetables",
+    "Price": 60
+  },
+  {
+    "Name": "Unmilled Rice",
+    "ItemCategory": "Vegetables",
+    "Price": 30
+  },
+  {
+    "Name": "Wheat",
+    "ItemCategory": "Vegetables",
+    "Price": 25
+  },
+  {
+    "Name": "Yam",
+    "ItemCategory": "Vegetables",
+    "Price": 160
+  }
+]

@@ -14,6 +14,10 @@ export class GrangeItem {
   itemScore = model<number>();
   item = "None";
   itemName = "";
+  qualities = input<string[]>();
+  quality = "Normal"
+  itemData = input<any>();
+  temp = typeof this.itemData();
 
   setItem(item: any){
     this.item = item.target.value;
@@ -22,6 +26,10 @@ export class GrangeItem {
 
   setItemName(itemName: any){
     this.itemName = itemName.target.value;
+  }
+
+  setItemQuality(quality: string){
+    this.quality = quality;
   }
 
   category(item: string) {

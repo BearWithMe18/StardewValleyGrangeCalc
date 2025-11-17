@@ -11,6 +11,13 @@
       <option [value]="item2">{{item2}}</option>
     }
     </select>
+    <select formControlName="itemQuality" (change)="setItemName($event)">
+    @for (item3 of qualities(); track $index) {
+      <option [value]="item3">{{item3}}</option>
+    }
+    </select>
   }
+
   <p>Item score: {{itemScore()}}</p>
+  <p>{{temp}}</p>
 </form>
