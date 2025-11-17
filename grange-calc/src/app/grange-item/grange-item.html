@@ -1,7 +1,16 @@
-<p>Item 1:</p>
-<select>
-  @for (item of itemCategories(); track item){
-  <option>{{item}}</option>
+<form>
+  <h3>Item {{itemNum()}}:</h3>
+  <select formControlName="itemCat" (change)="setItem($event)">
+    @for (item of itemCategories(); track $index){
+      <option [value]="item">{{item}}</option>
+    }
+  </select>
+  @if (item != "None") {
+    <select formControlName="itemName" (change)="setItemName($event)">
+    @for (item2 of category(item); track $index) {
+      <option [value]="item2">{{item2}}</option>
+    }
+    </select>
   }
-</select>
-<p>Item score: {{itemScore()}}</p>
+  <p>Item score: {{itemScore()}}</p>
+</form>
