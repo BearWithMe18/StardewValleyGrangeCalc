@@ -16,8 +16,13 @@
       <option [value]="item3">{{item3}}</option>
     }
     </select>
+    @for (item4 of itemData(); track $index) {
+      @if (item4.Name == itemName) {
+        <p>${{item4.Price}}</p>
+      }
+    }
   }
 
   <p>Item score: {{itemScore()}}</p>
-  <p>{{temp}}</p>
+
 </form>

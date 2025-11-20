@@ -17,7 +17,6 @@ export class GrangeItem {
   qualities = input<string[]>();
   quality = "Normal"
   itemData = input<any>();
-  temp = typeof this.itemData();
 
   setItem(item: any){
     this.item = item.target.value;
