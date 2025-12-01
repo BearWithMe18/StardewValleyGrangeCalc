@@ -21,14 +21,18 @@ export class GrangeItem {
   setItem(item: any){
     this.item = item.target.value;
     this.itemName = "";
+    this.itemForm.controls.itemCat.setValue(item.target.value);
+    this.itemForm.controls.itemName.setValue("None");
   }
 
   setItemName(itemName: any){
     this.itemName = itemName.target.value;
+    this.itemForm.controls.itemName.setValue(itemName.target.value);
   }
 
-  setItemQuality(quality: string){
-    this.quality = quality;
+  setItemQuality(quality: any){
+    this.quality = quality.target.value;
+    this.itemForm.controls.itemQuality.setValue(quality.target.value);
   }
 
   category(item: string) {
@@ -36,9 +40,10 @@ export class GrangeItem {
     //return this.categoryData[item as keyof typeof categoryData];
   }
 
-  form = new FormGroup({
-    itemCat: new FormControl(this.item),
-    itemName: new FormControl(this.itemName),
+  itemForm = new FormGroup({
+    itemCat: new FormControl("None"),
+    itemName: new FormControl("None"),
+    itemQuality: new FormControl("Normal")
   });
 
 }

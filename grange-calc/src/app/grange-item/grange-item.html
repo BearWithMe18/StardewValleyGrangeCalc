@@ -5,13 +5,13 @@
       <option [value]="item">{{item}}</option>
     }
   </select>
-  @if (item != "None") {
-    <select formControlName="itemName" (change)="setItemName($event)">
+  @if (this.itemForm.get("itemCat")?.value != "None") {
+    <select formControlName="itemName" (change)="setItemName($event)" [selectedIndex]="0">
     @for (item2 of category(item); track $index) {
       <option [value]="item2">{{item2}}</option>
     }
     </select>
-    <select formControlName="itemQuality" (change)="setItemName($event)">
+    <select formControlName="itemQuality" (change)="setItemQuality($event)">
     @for (item3 of qualities(); track $index) {
       <option [value]="item3">{{item3}}</option>
     }
@@ -24,5 +24,8 @@
   }
 
   <p>Item score: {{itemScore()}}</p>
+  <p>itemCat: {{this.itemForm.get("itemCat")?.value}}</p>
+  <p>itemName: {{this.itemForm.get("itemName")?.value}}</p>
+  <p>itemQuality: {{this.itemForm.get("itemQuality")?.value}}</p>
 
 </form>
