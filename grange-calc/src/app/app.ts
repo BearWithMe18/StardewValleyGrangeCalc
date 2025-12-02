@@ -2,7 +2,6 @@ import { Component, input, model, signal } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
 import { Score } from './score/score';
 import { FormControl, FormGroup, ReactiveFormsModule } from '@angular/forms';
-import categoryData from '../data/categories.json';
 import { GrangeItem } from './grange-item/grange-item';
 import ItemData from '../data/itemData.json'
 
@@ -13,7 +12,6 @@ import ItemData from '../data/itemData.json'
   styleUrl: './app.css'
 })
 export class App {
-  categoryData = categoryData;
   itemData = ItemData;
 
   protected readonly title = signal('grange-calc');

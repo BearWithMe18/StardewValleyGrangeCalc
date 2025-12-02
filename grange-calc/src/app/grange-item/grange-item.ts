@@ -8,7 +8,6 @@ import { FormGroup, FormControl } from '@angular/forms';
   styleUrl: './grange-item.css'
 })
 export class GrangeItem {
-  categoryData = input<any>();
   itemNum = input(1);
   itemCategories = input<string[]>();
   itemScore = model<number>();
@@ -36,7 +35,16 @@ export class GrangeItem {
   }
 
   category(item: string) {
-    return this.categoryData()[item];
+    let temp: string[] = [];
+    this.itemData().forEach((storedItem: {
+      ItemCategory: string; Name: string;
+}) => {
+      if (item == storedItem.ItemCategory) {
+        temp.push(storedItem.Name)
+      }
+    });
+    return temp;
+    //return this.itemCategories()[item];
     //return this.categoryData[item as keyof typeof categoryData];
   }
 
