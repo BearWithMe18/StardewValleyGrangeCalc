@@ -7,7 +7,7 @@
   </select>
   @if (this.itemForm.get("itemCat")?.value != "None") {
     <select formControlName="itemName" (change)="setItemName($event)" [selectedIndex]="0">
-    @for (item2 of category(item); track $index) {
+    @for (item2 of category(); track $index) {
       <option [value]="item2">{{item2}}</option>
     }
     </select>
@@ -17,7 +17,7 @@
     }
     </select>
     @for (item4 of itemData(); track $index) {
-      @if (item4.Name == itemName) {
+      @if (item4.Name == this.itemForm.get("itemName")?.value) {
         <p>${{item4.Price}}</p>
       }
     }

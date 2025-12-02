@@ -11,30 +11,24 @@ export class GrangeItem {
   itemNum = input(1);
   itemCategories = input<string[]>();
   itemScore = model<number>();
-  item = "None";
-  itemName = "";
   qualities = input<string[]>();
-  quality = "Normal"
   itemData = input<any>();
 
   setItem(item: any){
-    this.item = item.target.value;
-    this.itemName = "";
     this.itemForm.controls.itemCat.setValue(item.target.value);
     this.itemForm.controls.itemName.setValue("None");
   }
 
   setItemName(itemName: any){
-    this.itemName = itemName.target.value;
     this.itemForm.controls.itemName.setValue(itemName.target.value);
   }
 
   setItemQuality(quality: any){
-    this.quality = quality.target.value;
     this.itemForm.controls.itemQuality.setValue(quality.target.value);
   }
 
-  category(item: string) {
+  category() {
+    let item: string = this.itemForm.controls.itemCat.value?this.itemForm.controls.itemCat.value:"None";
     let temp: string[] = [];
     this.itemData().forEach((storedItem: {
       ItemCategory: string; Name: string;
@@ -44,8 +38,6 @@ export class GrangeItem {
       }
     });
     return temp;
-    //return this.itemCategories()[item];
-    //return this.categoryData[item as keyof typeof categoryData];
   }
 
   itemForm = new FormGroup({
